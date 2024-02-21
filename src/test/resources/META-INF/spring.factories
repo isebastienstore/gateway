@@ -1,0 +1,2 @@
+org.springframework.test.context.ContextCustomizerFactory = digital.ct2s.\
+    gateway.config.TestContainersSpringContextCustomizerFactory
